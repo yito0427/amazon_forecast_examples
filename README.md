@@ -1,0 +1,2 @@
+# amazon_forecast_examples
+Amazon ForecastをAPIから利用するためのサンプル集
